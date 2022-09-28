@@ -48,7 +48,7 @@ def user_choice():
             print()
 
 
-# checks input is more than zero
+# checks input is a number more than a given value
 def num_check(question, low):
     valid = False
     while not valid:
